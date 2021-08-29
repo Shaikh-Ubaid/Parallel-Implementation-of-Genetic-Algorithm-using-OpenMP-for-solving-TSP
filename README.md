@@ -1,0 +1,1 @@
+# Parallel-Implementation-of-Genetic-Algorithm-using-OpenMP-for-solving-TSP
